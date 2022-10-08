@@ -11,5 +11,5 @@ cd ocb-forger
 python3 -m venv ./venv  # optional
 source ./venv/bin/activate  # optional
 pip3 install -r requirements.txt
-python3 ocb-forger.py
+python3 {minimal|longer}.py
 ```
